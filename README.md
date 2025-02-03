@@ -67,8 +67,5 @@ DAX (Data Analysis Expressions): Advanced calculations
 
 Excel/Python (Optional): Pre-processing raw data
 
-Contributors
-
-alex analyst
-
 [Other Contributors]
+alex analyze
